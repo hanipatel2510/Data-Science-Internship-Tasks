@@ -1,0 +1,12 @@
+TITANIC SURVIVAL DEEP LEARNING (ANN) REPORT
+==================================================
+              precision    recall  f1-score   support
+
+           0       0.79      0.95      0.86       110
+           1       0.87      0.59      0.71        69
+
+    accuracy                           0.81       179
+   macro avg       0.83      0.77      0.78       179
+weighted avg       0.82      0.81      0.80       179
+
+ROC-AUC Score: 0.8518

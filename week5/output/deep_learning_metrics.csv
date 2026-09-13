@@ -1,0 +1,2 @@
+Model,Accuracy,Precision,Recall,F1_Score,ROC_AUC
+Deep Neural Network (MLP),0.8101,0.8723,0.5942,0.7069,0.8518
